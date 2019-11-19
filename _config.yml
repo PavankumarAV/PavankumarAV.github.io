@@ -3,8 +3,8 @@ title: Pavan Kumar AV
 description: A small and simple site I made to test out Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "https://thien.github.io/blueface/"
-github: http://github.com/tnguyen/blueface
+url: "https://pavankumarav.github.io/"
+github: https://github.com/PavankumarAV/PavankumarAV.github.io
 highlighter: rouge
 markdown: kramdown
 permalink: /post/:title/
